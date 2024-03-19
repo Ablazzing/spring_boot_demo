@@ -1,0 +1,9 @@
+shop:
+  name: coca-cola
+  address: Moscow
+  items: apple, juice, orange
+
+spring:
+  application:
+    name: spring_boot_demo
+  port: 5151
